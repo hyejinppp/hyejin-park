@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calculator Package
 
 이 프로젝트는 기본 계산기와 공학용 계산기를 포함하는 패키지입니다.
@@ -15,3 +16,6 @@
 
    ```bash
    pip install -r requirements.txt
+=======
+# hyejin-park
+>>>>>>> c6ec52f5485d2bd855bb24748e41dc8fd6c070fa
