@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wine Analysis Project
 
 ## 프로젝트 설명
@@ -16,3 +17,6 @@
 - `output.txt`: Python 분석 결과를 저장한 파일입니다.
 - `log.txt`: 분석 실행 로그를 저장한 파일입니다.
 - `environment.yml`: Conda 환경 파일로, 필요한 패키지 목록이 포함됩니다.
+=======
+# hyejin-park
+>>>>>>> 73ab1fcdecc0a4508eba521ae0e40b4d28469c25

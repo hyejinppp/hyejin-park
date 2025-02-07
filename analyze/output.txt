@@ -1,0 +1,18 @@
+행(row): 178, 열(column): 13
+
+각 특성의 평균 (mean)과 표준편차 (std):
+alcohol - 평균: 13.00, 표준편차: 0.81
+malic_acid - 평균: 2.34, 표준편차: 1.11
+ash - 평균: 2.37, 표준편차: 0.27
+alcalinity_of_ash - 평균: 19.49, 표준편차: 3.33
+magnesium - 평균: 99.74, 표준편차: 14.24
+total_phenols - 평균: 2.30, 표준편차: 0.62
+flavanoids - 평균: 2.03, 표준편차: 1.00
+nonflavanoid_phenols - 평균: 0.36, 표준편차: 0.12
+proanthocyanins - 평균: 1.59, 표준편차: 0.57
+color_intensity - 평균: 5.06, 표준편차: 2.31
+hue - 평균: 0.96, 표준편차: 0.23
+od280/od315_of_diluted_wines - 평균: 2.61, 표준편차: 0.71
+proline - 평균: 746.89, 표준편차: 314.02
+
+'alcohol' 특성의 최대값: 14.83, 최소값: 11.03

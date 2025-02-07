@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import numpy as np
 from sklearn.datasets import load_wine
 
@@ -31,9 +30,3 @@ with open('output.txt', 'w') as file:
 
 print("분석 결과가 output.txt에 저장되었습니다.")
 
-=======
-import numpy as np 
-from skleaarn.datasets import load_wine
-
-wine_Data = load_wine()
->>>>>>> 73ab1fcdecc0a4508eba521ae0e40b4d28469c25
